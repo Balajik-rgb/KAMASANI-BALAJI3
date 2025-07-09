@@ -28,4 +28,5 @@ Clean typography and consistent spacing throughout
 The system demonstrates a complete home automation solution where users can control lights, fans, TV, and other appliances through Bluetooth connectivity. The interface shows how the actual mobile app would function, complete with connection status indicators and device state management. The circuit diagram illustrates the hardware connections between the ESP32 microcontroller, 4-channel relay module, and various home appliances, while the code examples provide the complete implementation for both the microcontroller and mobile app sides.
 
 # OUT PUT
+<img width="1089" height="584" alt="Image" src="https://github.com/user-attachments/assets/1338f85c-7d88-41f5-9000-803c38ae8f2b" />
 
