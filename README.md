@@ -30,6 +30,7 @@ The system demonstrates a complete home automation solution where users can cont
 # OUT PUT
 <img width="1089" height="584" alt="Image" src="https://github.com/user-attachments/assets/1338f85c-7d88-41f5-9000-803c38ae8f2b" />
 <img width="666" height="482" alt="Image" src="https://github.com/user-attachments/assets/6d80992f-5ac8-4d5a-b7e8-90b82c11a82c" />
+#CIRCUIT DESIGN
 
 
 
